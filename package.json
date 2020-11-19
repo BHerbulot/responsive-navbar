@@ -1,0 +1,15 @@
+{
+  "name": "responsive-navbar",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:BHerbulot/responsive-navbar.git",
+  "author": "Benjamin Herbulot <benjamin.herbulot@netsach.fr>",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "faker": "^5.1.0",
+    "simple-hot-reload-server": "^1.2.0",
+    "tree-json-generator": "^0.1.1"
+  }
+}
